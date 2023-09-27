@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Susmita Halder</h1>
 <h3 align="center">A passionate programmer from India</h3>
-<img align right"alt="="coding"width="400"src=https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif>
+<img align="right" alt="="coding" width="400"src=https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushalder&label=Profile%20views&color=0e75b6&style=flat" alt="sushalder" /> </p>
 
